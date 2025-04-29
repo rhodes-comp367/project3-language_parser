@@ -12,11 +12,6 @@ open import helpers
 
 
 
--- Assume Parser exposes:
---   parseExpr : Parser Expr
---   eval      : Expr → BoolLike
---   pretty    : Expr → List Char
-
 
 -- === Parser Correctness ===
 
